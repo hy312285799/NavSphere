@@ -144,6 +144,14 @@
           "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
           "icon": "/assets/favicon_1761725100238.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762094464986_l6nswqh69",
+          "title": "今日热榜官网",
+          "href": "https://tophub.today/",
+          "description": "今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。",
+          "icon": "/assets/favicon_1762094434055.png",
+          "enabled": true
         }
       ],
       "subCategories": []
