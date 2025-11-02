@@ -9,5 +9,5 @@ GITHUB_OWNER = "hy312285799"
 GITHUB_REPO = "navsphere-cf"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navsphere-cf.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere-cf.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://navsphere-cf.pages.dev"
 
