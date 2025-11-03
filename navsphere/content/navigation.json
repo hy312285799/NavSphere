@@ -108,6 +108,14 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
+        },
+        {
+          "id": "item-1762168723356",
+          "enabled": true,
+          "title": "FUUN.FUN - 奇趣网站收藏家",
+          "href": "https://fuun.fun/",
+          "description": "奇趣网站收藏家",
+          "icon": "/assets/favicon_1762168688727.png"
         }
       ],
       "subCategories": [],
