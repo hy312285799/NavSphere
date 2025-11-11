@@ -249,6 +249,14 @@
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
               "enabled": true
+            },
+            {
+              "id": "item-1762849525010",
+              "enabled": true,
+              "title": "Vid2X - Online Video Trimmer | 在线视频剪辑工具",
+              "href": "https://vid2x.cn/",
+              "description": "免费在线视频剪辑工具，支持快速裁剪视频长度。本地处理，保护隐私，支持多种格式。",
+              "icon": "/assets/favicon_1762849481170.png"
             }
           ]
         },
